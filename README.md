@@ -1,3 +1,3 @@
 WomwnSafetyApplication
 <br>
-This is my women security project useing MERN Stack
+This is my women security project using MERN Stack
